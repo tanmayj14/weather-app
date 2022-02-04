@@ -1,0 +1,3 @@
+Dark Weather Predicts the Exact Weather, One Hour Ahead
+
+Dark Weather is a weather api that tells you  what will happen in the next hour, at most. What's the point of that, you ask? Because by limiting itself of what will happen next, Dark Weather can be spookily accurate.
